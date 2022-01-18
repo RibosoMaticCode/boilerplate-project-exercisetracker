@@ -1,6 +1,5 @@
 * {
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
@@ -43,8 +42,7 @@ input[type="submit"] {
   border-radius: 3px;
   background-color: #e4f1fe;
   border: 1px solid grey;
-  -webkit-box-shadow: 2px 2px #999;
-          box-shadow: 2px 2px #999;
+  box-shadow: 2px 2px #999;
   cursor: pointer;
 }
 
@@ -58,4 +56,3 @@ code {
   background-color: #fffec4;
   padding: 2px;
 }
-/*# sourceMappingURL=style.css.map */
